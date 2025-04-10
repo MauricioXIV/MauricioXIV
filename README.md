@@ -1,6 +1,6 @@
 # Soy Mauricio Rodríguez Ballesteros 👋
 ### Full Stack React & Django
-<img src="https://github.com/user-attachments/assets/666a28a1-4e19-4d76-9009-dc98a03c314c" alt="mauprof" width="300" />
+<img src="https://github.com/user-attachments/assets/a4458b75-f4b7-4780-82a5-3b7ed4da67d4" alt="mauprof" width="full" />
 
 ## Sobre mí
 Soy estudiante de Administración de empresas, actualmente curso el octavo y último semestre de mi carrera.
