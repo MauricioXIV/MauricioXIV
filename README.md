@@ -25,6 +25,16 @@ El cliente puede visualizar su historial de compras y ver los productos que ha a
 <a href="https://marketmasterplus.netlify.app/login">Puedes visitar mi sitio aquí</a>
 </p>
 
+## Skills
+<img src="https://github.com/user-attachments/assets/32108f65-aff4-4d34-89a7-e9e204b2fd2d" alt="marketmaster" width="full" />
+
+## Actualmente...
+Sigo trabajando en proyectos, principalmente de tipo Full Stack que me permiten continuar aprendiendo y mejorando como desarrollador, también estudio 
+a nivel intermedio y avanzado JavaScript y Python.
+
+## ¿Qué es lo que busco?
+Me encantaría adquirir experiencia laboral en donde pueda demostrar mi potencial tanto como desarrollador web como administrador.
+Además, me entusiasma la idea de colaborar en proyectos de mayor escala, en donde pueda tanto aportar como recibir conocimiento valioso.
 
 
  
