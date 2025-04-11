@@ -6,6 +6,10 @@
 Soy estudiante de Administración de empresas, actualmente curso el octavo y último semestre de mi carrera.
 Desde 2024 me volví autodidacta en ciencias de la computación, encontrando mi pasión en el desarrollo de aplicaciones en las que pueda plasmar 
 mis conocimientos adquiridos durante mis estudios profesionales.
+#### Puedes descargar mi CV <a href="https://github.com/user-attachments/files/19698713/NormalEnglish.CV.Mauricio.pdf" download="Mauricio_CV"> aquí</a>
+#### O si prefieres un estilo más formal (Harvard Style), <a href="https://github.com/user-attachments/files/19698714/HarvardStyleCV.Mauricio.pdf" download="Mauricio_Harvard_CV"> aquí</a>
+#### Mi portafolio de trabajo lo encuentras <a href="https://portafoliomauricio.netlify.app/">justo aquí</a>
+
 
 ## Proyectos
 He desarrollado principalmente dos proyectos, el primero es un ERP (Dolce Amore) y el segundo una tienda en línea (MarketMaster)
