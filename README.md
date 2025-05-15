@@ -38,7 +38,7 @@ a nivel intermedio y avanzado JavaScript y Python.
 
 ## ¿Qué es lo que busco?
 Me encantaría adquirir experiencia laboral en donde pueda demostrar mi potencial tanto como desarrollador web como administrador.
-Además, me entusiasma la idea de colaborar en proyectos de mayor escala, en donde pueda tanto aportar como recibir conocimiento valioso.
+Además, me entusiasma la idea de colaborar en proyectos de mayor escala, en donde pueda aportar y recibir conocimiento valioso.
 
 
  
