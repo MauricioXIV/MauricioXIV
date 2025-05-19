@@ -12,7 +12,15 @@ mis conocimientos adquiridos durante mis estudios profesionales.
 
 
 ## Proyectos
-He desarrollado principalmente dos proyectos, el primero es un ERP (Dolce Amore) y el segundo una tienda en línea (MarketMaster)
+Entre mis proyectos más destacados se encuentran: Nexus, Dolce Amore y MarketMaster
+
+### Nexus (Full Stack)
+Nexus es una red social inspirada en el universo del videojuego Gears of War. En ella puedes iniciar sesión mediante tu cuenta Google, relacionarte con las demás personas mediante el modelo Seguidor y Seguido, realizar publicaciones, recibir notificaciones y enviar mensajes en tiempo real, además de contar con un diseño y funciones características de Gears of war.
+
+<img src="https://github.com/user-attachments/assets/225c2e18-3005-47de-851f-23f9380e8301" alt="nexus" width="full" />
+<p align="center" >
+<a href="https://nexussn.netlify.app">Te invito a unirte a la comunidad Nexus aquí</a>
+</p>
 
 ### Dolce Amore (Backend)
 Dolce Amore es una repostería local para la cual elaboré un ERP utilizando tecnologías como FastAPI, MongoDB y Python principalmente.
@@ -26,7 +34,7 @@ El cliente puede visualizar su historial de compras y ver los productos que ha a
 
 <img src="https://github.com/user-attachments/assets/22a79a9a-8a6c-4b52-bedd-cfe9f2c54c67" alt="marketmaster" width="full" />
 <p align="center" >
-<a href="https://marketmasterplus.netlify.app/login">Puedes visitar mi sitio aquí</a>
+<a href="https://marketmasterplus.netlify.app">Puedes visitar mi sitio aquí</a>
 </p>
 
 ## Skills
