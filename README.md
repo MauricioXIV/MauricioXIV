@@ -7,9 +7,9 @@ Soy estudiante de Administración de empresas, actualmente curso el octavo y úl
 Desde 2024 me volví autodidacta en ciencias de la computación, encontrando mi pasión en el desarrollo de aplicaciones en las que pueda plasmar 
 mis conocimientos adquiridos durante mis estudios profesionales.
 #### Puedes descargar mi CV <a href="https://github.com/user-attachments/files/21132230/MauricioCV.pdf" download="Mauricio_CV"> aquí</a>
-#### En <a href="https://github.com/user-attachments/files/21132249/MauricioCVEspanol.pdf"> español</a>
+##### En <a href="https://github.com/user-attachments/files/21132249/MauricioCVEspanol.pdf"> español</a>
 #### O si prefieres un estilo más formal (Harvard Style), <a href="https://github.com/user-attachments/files/21132236/MauricioHarvardCV.pdf" download="Mauricio_Harvard_CV"> aquí</a>
-#### En <a href="https://github.com/user-attachments/files/21132251/MauricioHarvardCVEspanol.pdf"> español</a>
+##### En <a href="https://github.com/user-attachments/files/21132251/MauricioHarvardCVEspanol.pdf"> español</a>
 #### Mi portafolio de trabajo lo encuentras <a href="https://portafoliomauricio.netlify.app/">justo aquí</a>
 
 
