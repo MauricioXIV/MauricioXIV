@@ -24,17 +24,18 @@ Nexus es una red social inspirada en el universo del videojuego Gears of War. En
 <a href="https://nexussn.netlify.app">Te invito a unirte a la comunidad Nexus aquí</a>
 </p>
 
+
 ### Dolce Amore (Backend)
-Dolce Amore es una repostería local para la cual elaboré un ERP utilizando tecnologías como FastAPI, MongoDB y Python principalmente.
-El software cuenta con sistema de autenticación, en él se pueden registrar pedidos e inventarios, cuenta con sistema de cobro y almacena todos los movimientos realizados.
-Este ERP también tiene su propio sistema contable, capaz de generar automáticamente estados financieros como flujo de efectivo, estado de resultados y balance general.
+Dolce Amore es una repostería de mi ciudad. Desarrollé un sistema ERP utilizando Django, React.js y PostgreSQL. Incluye autenticación, gestión de pedidos e inventario, facturación y reportes financieros automáticos (flujo de caja, estado de resultados y balance general).
+
+<img src="https://github.com/user-attachments/assets/d1634f5d-feca-403f-bac1-07a627a675ba" alt="nexus" width="full" />
 
 ### MarketMaster (Full Stack)
 MarketMaster es una aplicación que simula la interacción entre un cliente y una tienda en línea.
 El cliente puede agregar productos a su carrito, ver el total de su compra y realizar el pago. Cuenta con sistema de autenticación, perfil personalizado y una moneda virtual para realizar compras.
 El cliente puede visualizar su historial de compras y ver los productos que ha adquirido.
 
-<img src="https://github.com/user-attachments/assets/22a79a9a-8a6c-4b52-bedd-cfe9f2c54c67" alt="marketmaster" width="full" />
+<img src="https://github.com/user-attachments/assets/56c63cbe-0c11-4787-b56b-840a23f40cef" alt="marketmaster" width="full" />
 <p align="center" >
 <a href="https://marketmasterplus.netlify.app">Puedes visitar mi sitio aquí</a>
 </p>
