@@ -35,7 +35,7 @@ MarketMaster es una aplicación que simula la interacción entre un cliente y un
 El cliente puede agregar productos a su carrito, ver el total de su compra y realizar el pago. Cuenta con sistema de autenticación, perfil personalizado y una moneda virtual para realizar compras.
 El cliente puede visualizar su historial de compras y ver los productos que ha adquirido.
 
-<img src="https://github.com/user-attachments/assets/56c63cbe-0c11-4787-b56b-840a23f40cef" alt="marketmaster" width="full" />
+<img src="https://github.com/user-attachments/assets/c5214d33-3ae5-414c-b29a-0dd69c5558b5" alt="marketmaster" width="full" />
 <p align="center" >
 <a href="https://marketmasterplus.netlify.app">Puedes visitar mi sitio aquí</a>
 </p>
